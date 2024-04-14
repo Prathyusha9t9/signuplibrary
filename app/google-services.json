@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "314500312948",
+    "firebase_url": "https://sign-up-ca5ed-default-rtdb.firebaseio.com",
+    "project_id": "sign-up-ca5ed",
+    "storage_bucket": "sign-up-ca5ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314500312948:android:07f667470391d51c604621",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDUieFViK6Mw0Mv9gfX6xemgxEzXEcnoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314500312948:android:c362708e66368477604621",
+        "android_client_info": {
+          "package_name": "com.example.signuplibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDUieFViK6Mw0Mv9gfX6xemgxEzXEcnoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
